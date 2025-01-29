@@ -1,0 +1,5 @@
+# template
+
+---
+
+## Golang projects templates.
